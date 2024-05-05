@@ -1,8 +1,6 @@
 # dio-reconhecimento-facial-transformacao-imagens-dados-azure-ml
 Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-Aqui está o conteúdo formatado para o arquivo `README.md` para o seu projeto de Reconhecimento Facial e OCR usando Azure Machine Learning. Este arquivo está pronto para ser adicionado ao seu repositório GitHub:
-
 ```markdown
 # Projeto de Reconhecimento Facial e OCR com Azure Machine Learning
 
